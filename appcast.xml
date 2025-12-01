@@ -3,14 +3,22 @@
     <channel>
         <title>Airy</title>
         <item>
-            <title>0.1.11</title>
-            <pubDate>Fri, 28 Nov 2025 19:16:52 +0800</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <title>0.1.12</title>
+            <pubDate>Mon, 01 Dec 2025 20:14:41 +0800</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/tisfeng/Airy-Release/releases/tag/0.1.11</sparkle:releaseNotesLink>
-
-            <enclosure url="https://github.com/tisfeng/Airy-Release/releases/download/0.1.11/Airy.zip" length="27092481" type="application/octet-stream" sparkle:edSignature="o+N2LOHh7BcCcBg1PuJipTbY2EHUGXF1x1Qw/ovz9bjUsNTLQIxBBxaG4RpRB0zQ5xpbLTeJPd2zgHQLpsroBg=="/>
+            <sparkle:releaseNotesLink>https://github.com/tisfeng/Airy-Release/releases/tag/0.1.12</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/tisfeng/Airy-Release/releases/download/0.1.12/Airy.zip" length="27104346" type="application/octet-stream" sparkle:edSignature="4CZJJH2K4CNGCfs+u9XGT0EwLtp6RDC3ZC17tr+5anfiR4NpA0Q209FdvTdBMZYZ/ETPyCCur96usDnF5WgTAg=="/>
+        </item>
+        <item>
+            <title>0.1.9</title>
+            <pubDate>Fri, 28 Nov 2025 15:22:55 +0800</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/tisfeng/Airy-Release/releases/tag/0.1.9</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/tisfeng/Airy-Release/releases/download/0.1.9/Airy.zip" length="26913220" type="application/octet-stream" sparkle:edSignature="p/eiS1dWMHAQioyTrGY+4RFBY9sbJl0Hfz+jG9CG0qDSU/ffAeJmskcnuZh+quCrqFTb2t2JFjgU8lw3b0ZRAg=="/>
         </item>
     </channel>
 </rss>
