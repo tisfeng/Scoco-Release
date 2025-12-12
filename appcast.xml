@@ -2,6 +2,15 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Airy</title>
+         <item>
+            <title>0.1.14</title>
+            <pubDate>Fri, 12 Dec 2025 16:41:22 +0800</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>https://github.com/tisfeng/Airy-Release/releases/tag/0.1.14</sparkle:releaseNotesLink>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tisfeng/Airy-Release/releases/download/0.1.14/Airy.zip" length="40144188" type="application/octet-stream" sparkle:edSignature="8Qf+SZuzhCws4awZgPJSNkLyhvfJbMbD3vsK63Relj55gkWU8ySNi8RDSJS4UqTRqQxi7cDsWSmg4TXVO184BQ=="/>
+        </item>
         <item>
             <title>0.1.13</title>
             <pubDate>Mon, 08 Dec 2025 20:47:50 +0800</pubDate>
