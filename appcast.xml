@@ -3,6 +3,15 @@
     <channel>
         <title>Airy</title>
         <item>
+            <title>0.1.19</title>
+            <pubDate>Mon, 29 Dec 2025 11:41:40 +0800</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>https://github.com/tisfeng/Airy-Release/releases/tag/0.1.19</sparkle:releaseNotesLink>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tisfeng/Airy-Release/releases/download/0.1.19/Airy.zip"" length="49577236" type="application/octet-stream" sparkle:edSignature="KM4CdNdLcDcm8bkpG6tlyhXjNETVx4bOHxRqLqpIRQLVaA0o9fCHdS7+fGVuHbu7OrcPleMVvroVqd/HopynDQ=="/>
+        </item>
+        <item>
             <title>0.1.18</title>
             <pubDate>Fri, 26 Dec 2025 17:48:01 +0800</pubDate>
             <sparkle:version>22</sparkle:version>
