@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.20</sparkle:releaseNotesLink>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.20/Scoco.zip" length="45220788" type="application/octet-stream" sparkle:edSignature="uv35mX6FuOdqfyIvR3vGiqOUXh6Sg1wvUNchT6ECxQsfmEOyb5h5S/RJB0sDGU10xiKuXUlQX4Ewhzwg+E/VCw=="/>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.20/Scoco.zip" length="45220788" type="application/octet-stream" sparkle:edSignature="1IS7A+m6ACvKCNn4BRQrqdQXcZAwDKphXbRVSD32w6UhHU+0iYi2Ea7KjbGMYX1/xIaYXqgppSuFUVXN6lIBCw=="/>
         </item>
         <item>
             <title>0.1.19</title>
