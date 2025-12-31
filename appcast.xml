@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.20</sparkle:releaseNotesLink>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.20/Airy.zip" length="45220788" type="application/octet-stream" sparkle:edSignature="uv35mX6FuOdqfyIvR3vGiqOUXh6Sg1wvUNchT6ECxQsfmEOyb5h5S/RJB0sDGU10xiKuXUlQX4Ewhzwg+E/VCw=="/>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.20/Scoco.zip" length="45220788" type="application/octet-stream" sparkle:edSignature="uv35mX6FuOdqfyIvR3vGiqOUXh6Sg1wvUNchT6ECxQsfmEOyb5h5S/RJB0sDGU10xiKuXUlQX4Ewhzwg+E/VCw=="/>
         </item>
         <item>
             <title>0.1.19</title>
@@ -18,7 +18,7 @@
             <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.19</sparkle:releaseNotesLink>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.19/Airy.zip" length="49577236" type="application/octet-stream" sparkle:edSignature="KM4CdNdLcDcm8bkpG6tlyhXjNETVx4bOHxRqLqpIRQLVaA0o9fCHdS7+fGVuHbu7OrcPleMVvroVqd/HopynDQ=="/>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.19/Scoco.zip" length="49577236" type="application/octet-stream" sparkle:edSignature="KM4CdNdLcDcm8bkpG6tlyhXjNETVx4bOHxRqLqpIRQLVaA0o9fCHdS7+fGVuHbu7OrcPleMVvroVqd/HopynDQ=="/>
         </item>
         <item>
             <title>0.1.18</title>
@@ -27,7 +27,7 @@
             <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.18</sparkle:releaseNotesLink>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.18/Airy.zip" length="49576824" type="application/octet-stream" sparkle:edSignature="k/JKZ83nAKbzQnF7qEufvdU2qvrIPmNf0OVhh+diMk0ITEHSNn2D1hWmbQfNW9zYZAuab1NF9ASbY/4044JLDw=="/>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.18/Scoco.zip" length="49576824" type="application/octet-stream" sparkle:edSignature="k/JKZ83nAKbzQnF7qEufvdU2qvrIPmNf0OVhh+diMk0ITEHSNn2D1hWmbQfNW9zYZAuab1NF9ASbY/4044JLDw=="/>
         </item>
         <item>
             <title>0.1.17</title>
@@ -36,7 +36,7 @@
             <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.17</sparkle:releaseNotesLink>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.17/Airy.zip" length="40154228" type="application/octet-stream" sparkle:edSignature="k6Y1cUL17LDsc6mDEFbc5+km9P+0O2BRRlRbuvPyH5eManbuFljHNKyB257U+DhsEClOxaNJF+0hitw4mfGxCg=="/>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.17/Scoco.zip" length="40154228" type="application/octet-stream" sparkle:edSignature="k6Y1cUL17LDsc6mDEFbc5+km9P+0O2BRRlRbuvPyH5eManbuFljHNKyB257U+DhsEClOxaNJF+0hitw4mfGxCg=="/>
         </item>
         <item>
             <title>0.1.16</title>
@@ -45,7 +45,7 @@
             <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.16</sparkle:releaseNotesLink>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.16/Airy.zip" length="40274560" type="application/octet-stream" sparkle:edSignature="3XYmRRYWdTpzBM6LoZQV9Ma95mUAGYDyAkG2Mm/BSCloniQ/INaF/tpnOlnNqMxHscIVVNYY5DAKKRO/JIxPCw=="/>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.16/Scoco.zip" length="40274560" type="application/octet-stream" sparkle:edSignature="3XYmRRYWdTpzBM6LoZQV9Ma95mUAGYDyAkG2Mm/BSCloniQ/INaF/tpnOlnNqMxHscIVVNYY5DAKKRO/JIxPCw=="/>
         </item>
         <item>
             <title>0.1.15</title>
@@ -54,7 +54,7 @@
             <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.15</sparkle:releaseNotesLink>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.15/Airy.zip" length="40275353" type="application/octet-stream" sparkle:edSignature="IwJO60ON4ksSPBpdxChPBJFdPAvagMqH5KNCkza5mig0z65ILK8EPZ1GjECsG/x3Ftd5MRE0AdoioZPujuLCAQ=="/>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.15/Scoco.zip" length="40275353" type="application/octet-stream" sparkle:edSignature="IwJO60ON4ksSPBpdxChPBJFdPAvagMqH5KNCkza5mig0z65ILK8EPZ1GjECsG/x3Ftd5MRE0AdoioZPujuLCAQ=="/>
         </item>
          <item>
             <title>0.1.14</title>
@@ -63,7 +63,7 @@
             <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.14</sparkle:releaseNotesLink>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.14/Airy.zip" length="40144188" type="application/octet-stream" sparkle:edSignature="8Qf+SZuzhCws4awZgPJSNkLyhvfJbMbD3vsK63Relj55gkWU8ySNi8RDSJS4UqTRqQxi7cDsWSmg4TXVO184BQ=="/>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.14/Scoco.zip" length="40144188" type="application/octet-stream" sparkle:edSignature="8Qf+SZuzhCws4awZgPJSNkLyhvfJbMbD3vsK63Relj55gkWU8ySNi8RDSJS4UqTRqQxi7cDsWSmg4TXVO184BQ=="/>
         </item>
         <item>
             <title>0.1.13</title>
@@ -72,7 +72,7 @@
             <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.13</sparkle:releaseNotesLink>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.13/Airy.zip" length="27210410" type="application/octet-stream" sparkle:edSignature="grhlT/sjO/nzjCvO7M12/CVbrfIG3JF9hqzh+JQoDYRNq6V3NtneY+Om70Iz8Xtl4vai9S/gBm2IfKTOM/MJAQ=="/>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.13/Scoco.zip" length="27210410" type="application/octet-stream" sparkle:edSignature="grhlT/sjO/nzjCvO7M12/CVbrfIG3JF9hqzh+JQoDYRNq6V3NtneY+Om70Iz8Xtl4vai9S/gBm2IfKTOM/MJAQ=="/>
         </item>
         <item>
             <title>0.1.12</title>
@@ -81,7 +81,7 @@
             <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.12</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.12/Airy.zip" length="27104346" type="application/octet-stream" sparkle:edSignature="4CZJJH2K4CNGCfs+u9XGT0EwLtp6RDC3ZC17tr+5anfiR4NpA0Q209FdvTdBMZYZ/ETPyCCur96usDnF5WgTAg=="/>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.12/Scoco.zip" length="27104346" type="application/octet-stream" sparkle:edSignature="4CZJJH2K4CNGCfs+u9XGT0EwLtp6RDC3ZC17tr+5anfiR4NpA0Q209FdvTdBMZYZ/ETPyCCur96usDnF5WgTAg=="/>
         </item>
         <item>
             <title>0.1.9</title>
@@ -90,7 +90,7 @@
             <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.9</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.9/Airy.zip" length="26913220" type="application/octet-stream" sparkle:edSignature="p/eiS1dWMHAQioyTrGY+4RFBY9sbJl0Hfz+jG9CG0qDSU/ffAeJmskcnuZh+quCrqFTb2t2JFjgU8lw3b0ZRAg=="/>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.9/Scoco.zip" length="26913220" type="application/octet-stream" sparkle:edSignature="p/eiS1dWMHAQioyTrGY+4RFBY9sbJl0Hfz+jG9CG0qDSU/ffAeJmskcnuZh+quCrqFTb2t2JFjgU8lw3b0ZRAg=="/>
         </item>
     </channel>
 </rss>
