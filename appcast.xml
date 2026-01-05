@@ -2,6 +2,15 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Scoco</title>
+         <item>
+            <title>0.1.21</title>
+            <pubDate>Mon, 05 Jan 2026 20:19:01 +0800</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.21</sparkle:releaseNotesLink>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.21/Scoco.zip" length="45294142" type="application/octet-stream" sparkle:edSignature="hw4hsBojKPlV7nQ67SlXHNzFAdlCWLVwF7c/LtNyutQNHKxzhAHncCIgsEbKj8jhc5/JQjiL4X93GUndeM5MDg=="/>
+        </item>       
         <item>
             <title>0.1.20</title>
             <pubDate>Wed, 31 Dec 2025 17:36:41 +0800</pubDate>
