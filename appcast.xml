@@ -3,6 +3,15 @@
     <channel>
         <title>Scoco</title>
         <item>
+            <title>0.1.23</title>
+            <pubDate>Thu, 15 Jan 2026 20:44:53 +0800</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.23</sparkle:releaseNotesLink>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.23/Scoco.zip" length="45552928" type="application/octet-stream" sparkle:edSignature="3iP3mZJYyx5XUHS+92GrajTNIjrpWNfpH2NQLedmVqpImAzRc6YgBh9n9SmnNW9a/visAZAKHQjyG8eOmLSXBQ=="/>
+        </item>
+        <item>
             <title>0.1.22</title>
             <pubDate>Fri, 09 Jan 2026 17:49:35 +0800</pubDate>
             <sparkle:version>26</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.21</sparkle:releaseNotesLink>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.21/Scoco.zip" length="45294142" type="application/octet-stream" sparkle:edSignature="hw4hsBojKPlV7nQ67SlXHNzFAdlCWLVwF7c/LtNyutQNHKxzhAHncCIgsEbKj8jhc5/JQjiL4X93GUndeM5MDg=="/>
-        </item>
-        <item>
-            <title>0.1.20</title>
-            <pubDate>Wed, 31 Dec 2025 17:36:41 +0800</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
-            <sparkle:releaseNotesLink>https://github.com/tisfeng/Scoco-Release/releases/tag/0.1.20</sparkle:releaseNotesLink>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tisfeng/Scoco-Release/releases/download/0.1.20/Scoco.zip" length="45220788" type="application/octet-stream" sparkle:edSignature="1IS7A+m6ACvKCNn4BRQrqdQXcZAwDKphXbRVSD32w6UhHU+0iYi2Ea7KjbGMYX1/xIaYXqgppSuFUVXN6lIBCw=="/>
         </item>
     </channel>
 </rss>
